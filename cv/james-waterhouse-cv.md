@@ -11,6 +11,6 @@ I strongly believe that data holds the key to business success and I am obsessed
 
 [Top](/cv/james-waterhouse-cv.md)
 
-[Home](index.md)
+[Home](/index.md)
 
 [Contact](mailto:jatwaterhouse@gmail.com)
