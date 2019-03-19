@@ -1,5 +1,7 @@
 ![jw image](/images/jw.png)
+---
 [**Blog**](#blog) | [**View my CV**](/cv/james-waterhouse-cv.md) | [**Contact me**](mailto:jatwaterhouse@gmail.com)
+---
 
 # About
 I'm James Waterhouse, currently Head of Product in the Data Tribe at Sky Betting & Gaming based in Leeds, UK.
