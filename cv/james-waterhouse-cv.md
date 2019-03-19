@@ -28,7 +28,7 @@ I strongly believe that data holds the key to business success and I am obsessed
 # Experience
 ## Head of Product (Data) - Sky Betting & Gaming (SB&G)
 ### October 2018 to Present
-In my current role I am responsible for leading the data product strategy within SB&G's Data Tribe, which includes the data warehousing squads, the data science squad and a squad responsible for carrying out compliance related projects (currently ensuring we are Sarbanes Oxley compliant.
+In my current role I am responsible for leading the data product strategy within SB&G's Data Tribe, which includes the data warehousing squads, the data science squad and a squad responsible for carrying out compliance related projects (currently ensuring we are Sarbanes Oxley compliant).
 
 Responsibilities include...
 * Leading a team of product owners to to define our data product strategy and decide how we best meet business requirements
@@ -39,7 +39,24 @@ Responsibilities include...
 
 ## Head of Data Science - SB&G
 ### August 2015 to October 2018
-Text Text Text
+Noticing the potential to apply machine learning and data science to SB&G's vast amounts of customer and transactional data, I set up from scratch and led the Data Science team, one of the real success stories in SBG's ascent to become the UKs leading online bookmaker.
+
+By championing the formation of a multi-diciplined team of data scientists, engineers and testers, and establishing a culture of empowerment, teamwork and autonomy of decision making, I've overseen the delivery of 80+ predictive models running in automation and at scale on Hadoop.  These models now deliver in excess of £4M incremental revenue to the business p/a.
+
+Whilst Head of Data Science I...
+* Introduced the business to the potential of predictive modelling, machine learning and player segmentation
+* Focused efforts on end-to-end delivery, working to Agile principles in order to deliver incremental value
+* Established various academic collaborations with institutions including the [Leeds Institute of Data Analytics](https://lida.leeds.ac.uk/) and Lancaster University [Data Science Institute](https://www.lancaster.ac.uk/dsi/)
+
+## Interim Safer Gambling Programme Manager - SB&G
+### July 2018 to October 2018
+Whilst continuing to lead the Data Science team, I became heavily involved in forging our early safer gambling strategy working closly with the then Managing Director of Risk and Safer Gambling.
+
+Through this time I...
+* Met reguarly with industry groups such as [Senet Group](https://senetgroup.org.uk/) and the RGA
+* Liased with the Gambling Commission and other regulatory bodies
+* Outlined a identification and interaction strategy with machine learning and behavioural analytics at its core
+* Oversaw a interaction trial in collaboration with [the Behavioural Insights Team](https://www.bi.team/)
 
 ## Head of Strategy & Insight - SB&G
 ### Feb 2015 to August 2015
