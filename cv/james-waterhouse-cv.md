@@ -72,6 +72,6 @@ During this period I...
 
 [Top](#profile)
 
-[Home]:https://www.jameswaterhouse.net/
+[Home](https://www.jameswaterhouse.net/)
 
 [Contact](mailto:jatwaterhouse@gmail.com)
