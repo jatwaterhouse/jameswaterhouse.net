@@ -53,7 +53,7 @@ During this period I...
 * Provided data support for external consultants involved in the CVC takeover of SB&G
 * Oversaw econometric projects on both Bet and Gaming to drive efficiencies in media spend
 
-[Top](/cv/james-waterhouse-cv.md)
+[Top](#profile)
 
 [Home](/index.md)
 
