@@ -37,16 +37,6 @@ Responsibilities include...
 * Prioritising roadmap and BAU work
 * Communication to senior management
 
-## Interim Safer Gambling Programme Manager - SB&G
-### July 2018 to October 2018
-In addition to my responsibilities as Head of Data Science, I became heavily involved in forging our early safer gambling strategy working closly with the then Managing Director of Risk and Safer Gambling.
-
-During this time I...
-* Met reguarly with industry groups such as [Senet Group](https://senetgroup.org.uk/) and the RGA
-* Liased with the Gambling Commission and other regulatory bodies
-* Outlined a identification and interaction strategy with machine learning and behavioural analytics at its core
-* Oversaw a interaction trial in collaboration with [the Behavioural Insights Team](https://www.bi.team/)
-
 ## Head of Data Science - SB&G
 ### August 2015 to October 2018
 Noticing the potential to apply machine learning and data science to SB&G's vast amounts of customer and transactional data, I set up from scratch and led the Data Science team, one of the real success stories in SBG's ascent to become the UKs leading online bookmaker.
@@ -57,6 +47,16 @@ Whilst Head of Data Science I...
 * Introduced the business to the potential of predictive modelling, machine learning and player segmentation
 * Focused efforts on end-to-end delivery, working to Agile principles in order to deliver incremental value
 * Established various academic collaborations with institutions including the [Leeds Institute of Data Analytics](https://lida.leeds.ac.uk/) and Lancaster University [Data Science Institute](https://www.lancaster.ac.uk/dsi/)
+
+## Interim Safer Gambling Programme Manager - SB&G
+### July 2018 to October 2018
+In addition to my responsibilities as Head of Data Science, I became heavily involved in forging our early safer gambling strategy working closly with the then Managing Director of Risk and Safer Gambling.
+
+During this time I...
+* Met reguarly with industry groups such as [Senet Group](https://senetgroup.org.uk/) and the RGA
+* Liased with the Gambling Commission and other regulatory bodies
+* Outlined a identification and interaction strategy with machine learning and behavioural analytics at its core
+* Oversaw a interaction trial in collaboration with [the Behavioural Insights Team](https://www.bi.team/)
 
 ## Head of Strategy & Insight - SB&G
 ### Feb 2015 to August 2015
