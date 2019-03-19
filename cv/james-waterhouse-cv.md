@@ -70,6 +70,13 @@ During this period I...
 * Provided data support for external consultants involved in the CVC takeover of SB&G
 * Oversaw econometric projects on both Bet and Gaming to drive efficiencies in media spend
 
+# Education
+## BSc Mathematics with Physics (University of Leeds)
+### 2004-2007 Degree classification: 2:1 Honours
+
+# Hobbies
+Outside of work I play guitar in a band who’ve enjoyed airplay on BBC Radio 1 and Channel 4 and have also played various major UK festivals.  I'm keen on all sport, in particular Rugby League.  I also like to re-upholster furniture.
+
 [Top](#profile)
 
 [Home](https://www.jameswaterhouse.net/)
