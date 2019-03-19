@@ -9,7 +9,7 @@ All views are my own.
 
 [**View my CV**](/cv/james-waterhouse-cv.md)
 
-[**Contact me**](mailto:jatwaterhouse@gmail.com) 
+[**Contact me**](mailto:jatwaterhouse@gmail.com)
 
 # A mountain to climb
 _Posted on March 19, 2019_
@@ -31,3 +31,5 @@ I've found over the years that working in data and analytics across multiple pro
 Our teams often are classed as a 'central service' and with that comes the constant battle of prioritisation, the slog of incidents and bug fixes and the iterative steps of improvement.
 
 Our work is never really finished; we never get to the top of the mountain.  But Walter Bonatti's quote reminds us that it's not really about that!
+
+![restless](/images/restless.jpg)
