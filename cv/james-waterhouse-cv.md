@@ -1,3 +1,7 @@
+---
+title: James Waterhouse - Curriculum Vitae 
+---
+
 # Profile
 A passionate and motivated data strategist with experience spanning multiple analytical and management roles in both business insight and data science.
 
