@@ -26,15 +26,22 @@ I strongly believe that data holds the key to business success and I am obsessed
 * Agile delivery
 
 # Experience
-## Head of Product (Data) - Sky Betting & Gaming 
+## Head of Product (Data) - Sky Betting & Gaming (SB&G)
 ### October 2018 to Present
-Text Text Text
+In my current role I am responsible for leading the data product strategy within SB&G's Data Tribe, which includes the data warehousing squads, the data science squad and a squad responsible for carrying out compliance related projects (currently ensuring we are Sarbanes Oxley compliant.
 
-## Head of Data Science - Sky Betting & Gaming 
+Responsibilities include...
+* Leading a team of product owners to to define our data product strategy and decide how we best meet business requirements
+* Coordinating early engagement and data discovery across SB&G
+* Managing a team of business analysts
+* Prioritising roadmap and BAU work
+* Communication to senior management
+
+## Head of Data Science - SB&G
 ### August 2015 to October 2018
 Text Text Text
 
-## Head of Strategy & Insight - Sky Betting & Gaming 
+## Head of Strategy & Insight - SB&G
 ### Feb 2015 to August 2015
 Ran a  large  team  of analysts  and  researchers responsible for  providing insight for the entire business including the marketing, commercial and product teams.  
 
