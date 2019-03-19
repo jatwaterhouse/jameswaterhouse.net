@@ -1,5 +1,4 @@
 ![jw image](/images/jw.png)
-___
 
 [**Blog**](#blog) | [**View my CV**](/cv/james-waterhouse-cv.md) | [**Contact me**](mailto:jatwaterhouse@gmail.com)
 ---
@@ -18,9 +17,9 @@ All views are my own.
 ## A mountain to climb
 _Posted on March 19, 2019_
 
-I was fortunate enough to spend some time last year on a residential team building/leadership development 'camp' in the Lake District, run by John Peck and his colleagues from [Tiger Teams](http://www.tigerteams.co.uk/).
+Last year I was fortunate enough to spend some time on a residential team building/leadership development 'camp' in the Lake District, run by John Peck and his colleagues from [Tiger Teams](http://www.tigerteams.co.uk/).
 
-John, a retired Chief Superintendant in the Met Police, has dedicated his life to adventure having climbed mountains in the Hymalayas, rowed the Atlantic and completed the Marathon des Sables amongst other feats.  He was an absorbing and inspirational character with a real aura about him.
+John, a retired Chief Superintendant within the Met Police, has dedicated his life to adventure having climbed mountains in the Hymalayas, rowed the Atlantic and completed the Marathon des Sables amongst other feats.  He is an absorbing and inspirational character with a real aura about him.
 
 The few days spent away from the world in the company of both gambling industry peers but also recovering gambling addicts had a profound effect on me and I returned home with a list of things to change and things I was determined to do.
 
@@ -34,7 +33,7 @@ I've found over the years that working in data and analytics across multiple pro
 
 Our teams often are classed as a 'central service' and with that comes the constant battle of prioritisation, the slog of incidents and bug fixes and the iterative steps of improvement.
 
-Our work is never really finished; we never get to the top of the mountain.  But Walter Bonatti's quote reminds us that it's not really about that!
+Our work is never really finished; we never get to the top of the mountain.  But Walter Bonatti's quote reminded me that it's not really about that!
 
 ![restless](/images/restless.jpg)
 
