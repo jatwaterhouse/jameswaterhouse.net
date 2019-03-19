@@ -2,6 +2,7 @@
 
 [**Blog**](#blog) | [**View my CV**](/cv/james-waterhouse-cv.md) | [**Contact me**](mailto:jatwaterhouse@gmail.com)
 
+# About
 I'm James Waterhouse, currently Head of Product in the Data Tribe at Sky Betting & Gaming based in Leeds, UK.
 
 I'm passionate about anything data, data science or analytics related.
@@ -33,3 +34,5 @@ Our teams often are classed as a 'central service' and with that comes the const
 Our work is never really finished; we never get to the top of the mountain.  But Walter Bonatti's quote reminds us that it's not really about that!
 
 ![restless](/images/restless.jpg)
+
+[Top](#about)
