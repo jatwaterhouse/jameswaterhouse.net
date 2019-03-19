@@ -1,4 +1,7 @@
 ![jw image](/images/jw.png)
+
+[**Blog**](#blog) | [**View my CV**](/cv/james-waterhouse-cv.md) | [**Contact me**](mailto:jatwaterhouse@gmail.com)
+
 I'm James Waterhouse, currently Head of Product in the Data Tribe at Sky Betting & Gaming based in Leeds, UK.
 
 I'm passionate about anything data, data science or analytics related.
@@ -7,11 +10,8 @@ This site contains basic info about me, some of my random musings by way of a bl
 
 All views are my own.
 
-[**View my CV**](/cv/james-waterhouse-cv.md)
-
-[**Contact me**](mailto:jatwaterhouse@gmail.com)
-
-# A mountain to climb
+# Blog
+## A mountain to climb
 _Posted on March 19, 2019_
 
 I was fortunate enough to spend some time last year on a residential team building/leadership development 'camp' in the Lake District, run by John Peck and his colleagues from [Tiger Teams](http://www.tigerteams.co.uk/).
