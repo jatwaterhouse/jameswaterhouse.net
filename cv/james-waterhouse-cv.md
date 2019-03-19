@@ -55,6 +55,6 @@ During this period I...
 
 [Top](#profile)
 
-[Home](/index.md)
+[Home](https://www.jameswaterhouse.net/)
 
 [Contact](mailto:jatwaterhouse@gmail.com)
