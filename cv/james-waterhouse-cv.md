@@ -55,6 +55,6 @@ During this period I...
 
 [Top](/cv/james-waterhouse-cv.md)
 
-[Home](/index.md)
+[Home](index.md)
 
 [Contact](mailto:jatwaterhouse@gmail.com)
