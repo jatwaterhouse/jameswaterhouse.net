@@ -1,6 +1,6 @@
 ![jw image](/images/jw.png)
 
-## [**Blog**](#blog) | [**View my CV**](/cv/james-waterhouse-cv.md) | [**Contact me**](https://goo.gl/forms/29H2pMdQbx4YFI613){:target="_blank"}
+## [**Blog**](#blog) | [**View my CV**](/cv/james-waterhouse-cv.md) | [**Contact me**](https://goo.gl/forms/29H2pMdQbx4YFI613)
 
 
 
@@ -17,7 +17,7 @@ All views are my own.
 ## A mountain to climb
 _Posted on March 19, 2019_
 
-Last year I was fortunate enough to spend some time on a residential team building/leadership development 'camp' in the Lake District, run by John Peck and his colleagues from [Tiger Teams](http://www.tigerteams.co.uk/){:target="_blank"}.
+Last year I was fortunate enough to spend some time on a residential team building/leadership development 'camp' in the Lake District, run by John Peck and his colleagues from [Tiger Teams](http://www.tigerteams.co.uk/).
 
 John, a retired Met Police Chief Superintendent, has dedicated his life to adventure having climbed mountains in the Himalayas, rowed across the Atlantic Ocean and completed the Marathon des Sables amongst other feats.  I found him to be an absorbing and inspirational character with a real aura.
 
@@ -25,7 +25,7 @@ The few days spent away from the world in the company of both gambling industry 
 
 One such thing on my list was to read John's biography 'Restless' which documents some of his biggest adventures.
 
-I was really taken aback by a quote which opens the book from [Walter Bonatti](https://en.wikipedia.org/wiki/Walter_Bonatti){:target="_blank"}:
+I was really taken aback by a quote which opens the book from [Walter Bonatti](https://en.wikipedia.org/wiki/Walter_Bonatti):
 
 > The mountains are the means; the man is the end.  The idea is to improve the man, not to reach the top of the mountains.
 
