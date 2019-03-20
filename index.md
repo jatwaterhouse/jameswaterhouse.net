@@ -1,6 +1,6 @@
 ![jw image](/images/jw.png)
 
-## [**Blog**](#blog) | [**View my CV**](/cv/james-waterhouse-cv.md) | [**Contact me**](https://goo.gl/forms/29H2pMdQbx4YFI613)
+## [**Blog**](#blog) | [**View my CV**](/cv/james-waterhouse-cv.md) | [**Contact me**](https://goo.gl/forms/29H2pMdQbx4YFI613){:target="_blank"}
 
 
 
