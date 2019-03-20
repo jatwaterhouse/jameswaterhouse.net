@@ -81,4 +81,4 @@ Outside of work I play guitar in a band who’ve enjoyed airplay on BBC Radio 1 
 
 [Home](https://www.jameswaterhouse.net/)
 
-[Contact me](https://goo.gl/forms/29H2pMdQbx4YFI613)
+[Contact me](https://goo.gl/forms/29H2pMdQbx4YFI613){:target="_blank"}
