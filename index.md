@@ -1,6 +1,6 @@
 ![jw image](/images/jw.png)
 
-## [**Blog**](#blog) | [**View my CV**](/cv/james-waterhouse-cv.md) | [**Contact me**](https://goo.gl/forms/29H2pMdQbx4YFI613)
+## [**Blog**](#blog) | [**View my CV**](/cv/james-waterhouse-cv.md) | [**Contact me**](https://goo.gl/forms/29H2pMdQbx4YFI613){:target="_blank"}
 
 
 
@@ -17,7 +17,7 @@ All views are my own.
 ## A mountain to climb
 _Posted on March 19, 2019_
 
-Last year I was fortunate enough to spend some time on a residential team building/leadership development 'camp' in the Lake District, run by John Peck and his colleagues from [Tiger Teams](http://www.tigerteams.co.uk/).
+Last year I was fortunate enough to spend some time on a residential team building/leadership development 'camp' in the Lake District, run by John Peck and his colleagues from [Tiger Teams](http://www.tigerteams.co.uk/){:target="_blank"}.
 
 John, a retired Chief Superintendant within the Met Police, has dedicated his life to adventure having climbed mountains in the Hymalayas, rowed the Atlantic and completed the Marathon des Sables amongst other feats.  He is an absorbing and inspirational character with a real aura about him.
 
