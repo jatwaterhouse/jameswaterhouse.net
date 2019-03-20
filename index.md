@@ -1,7 +1,8 @@
 ![jw image](/images/jw.png)
 
-[**Blog**](#blog) | [**View my CV**](/cv/james-waterhouse-cv.md) | [**Contact me**](https://goo.gl/forms/29H2pMdQbx4YFI613)
-___
+## [**Blog**](#blog) | [**View my CV**](/cv/james-waterhouse-cv.md) | [**Contact me**](https://goo.gl/forms/29H2pMdQbx4YFI613)
+
+
 
 # About
 I'm James Waterhouse, currently Head of Product in the Data Tribe at Sky Betting & Gaming based in Leeds, UK.
@@ -24,7 +25,7 @@ The few days spent away from the world in the company of both gambling industry 
 
 One such thing on the list was to read John's biography 'Restless' which documents some of his biggest adventures.
 
-I was really taken aback by the quote which opens the book by [Walter Bonatti](https://en.wikipedia.org/wiki/Walter_Bonatti):
+I was really taken aback by the quote which opens the book by [Walter Bonatti](https://en.wikipedia.org/wiki/Walter_Bonatti){:target="_blank"}:
 
 > The mountains are the means; the man is the end.  The idea is to improve the man, not to reach the top of the mountains.
 
