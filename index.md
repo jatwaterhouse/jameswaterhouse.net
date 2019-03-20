@@ -1,7 +1,6 @@
 ![jw image](/images/jw.png)
 
-[**Blog**](#blog) | [**View my CV**](/cv/james-waterhouse-cv.md) | [**Contact me**](mailto:jatwaterhouse@gmail.com)
----
+[**Blog**](#blog) | [**View my CV**](/cv/james-waterhouse-cv.md)
 ___
 
 # About
