@@ -1,5 +1,5 @@
 ---
-title: James Waterhouse - Curriculum Vitae 
+title: James Waterhouse - Curriculum Vitae
 ---
 
 # Profile
@@ -81,4 +81,4 @@ Outside of work I play guitar in a band who’ve enjoyed airplay on BBC Radio 1 
 
 [Home](https://www.jameswaterhouse.net/)
 
-[Contact me](https://goo.gl/forms/29H2pMdQbx4YFI613){:target="_blank"}
+[Contact me](https://goo.gl/forms/29H2pMdQbx4YFI613)
