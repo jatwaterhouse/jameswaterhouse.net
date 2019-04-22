@@ -27,7 +27,7 @@ Data science is an art.  Business opportunities and/or problems are the canvas; 
 
 Creative subjects are just as important as the academic ones and we should support their continued teaching in our schools and universities.
 
-[https://www.huffingtonpost.co.uk/entry/the-government-is-outsourcing-education-arts-education_uk_5ca0eaaae4b0e4e4834dacb1](https://www.huffingtonpost.co.uk/entry/the-government-is-outsourcing-education-arts-education_uk_5ca0eaaae4b0e4e4834dacb1)
+["Cuts Mean Arts Education Is Being Outsourced To The Culture Sector – And It's Not Working" - Huffpost - April 16, 2019](https://www.huffingtonpost.co.uk/entry/the-government-is-outsourcing-education-arts-education_uk_5ca0eaaae4b0e4e4834dacb1)
 
 ## A mountain to climb
 _Posted on March 19, 2019_
