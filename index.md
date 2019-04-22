@@ -14,6 +14,20 @@ This site contains basic info about me, some of my random musings by way of a bl
 All views are my own.
 
 # Blog
+## 
+_Posted on April 22, 2019_
+People often ask what skills and qualities make the perfect data scientist.  The most obvious answers are statistical knowledge, coding ability and data wrangling expertise.  
+
+Less obvious but just as important are domain knowledge, common sense and pragmatism.  Knowing what will work within the context of your business and having the acumen to make it happen count just as much as technical expertise if your aim is to deliver material value from your work.
+
+But that's not it.  One of the most important qualities often much more difficult to find in an individual is CREATIVITY.  Years of educational policy have put increased emphasis on core academic subjects at the expense of fully developing creative skills and the ability for people to think outside the box.
+
+Data science is an art.  Business opportunities and/or problems are the canvas; data is the paint.  However without creativity and the ability to join it all up, at best you'll get paint-by-numbers, at worst you'll get nothing at all.  You'll certainly never innovate.
+
+Creative subjects are just as important as the academic ones and we should support their continued teaching in our schools and universities.
+
+https://www.huffingtonpost.co.uk/entry/the-government-is-outsourcing-education-arts-education_uk_5ca0eaaae4b0e4e4834dacb1?
+
 ## A mountain to climb
 _Posted on March 19, 2019_
 
