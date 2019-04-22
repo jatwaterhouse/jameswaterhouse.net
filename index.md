@@ -14,7 +14,7 @@ This site contains basic info about me, some of my random musings by way of a bl
 All views are my own.
 
 # Blog
-## 
+## Arts vital for science to flourish
 _Posted on April 22, 2019_
 People often ask what skills and qualities make the perfect data scientist.  The most obvious answers are statistical knowledge, coding ability and data wrangling expertise.  
 
