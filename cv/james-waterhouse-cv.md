@@ -3,11 +3,11 @@ title: James Waterhouse - Curriculum Vitae
 ---
 
 # Profile
-A passionate and motivated data strategist with experience spanning multiple analytical and management roles in both business insight and data science.
+I am a passionate and motivated data strategist with experience spanning multiple analytical and management roles in both business insight and data science.
 
 I combine technical ability with creativity and commercial awareness to create new opportunities from data.  
 
-With over 8 years experience working within a rapidly growing tech business, I am comfortable communicating at a senior management level, whilst being able to also roll my sleaves up and understand the detail and effort it will take to get things done 'on the ground'.
+With over 8 years experience working within a rapidly growing tech business, I am comfortable communicating at a senior management level, whilst can also roll my sleaves up and muck in, understanding the detail and effort it will take to get things done 'on the ground'.
 
 My experience working both within and in support of commercial teams means I am able to balance pragmatism with foresight to deliver in both the short and long terms.
 
@@ -17,6 +17,7 @@ I strongly believe that data holds the key to business success and I am obsessed
 * Strategic thinking
 * Product ownership and prioritisation
 * Team management
+* Analytical approaches and planning
 * SQL
 * R
 * SparkR
@@ -28,13 +29,14 @@ I strongly believe that data holds the key to business success and I am obsessed
 # Experience
 ## Head of Product (Data) - Sky Betting & Gaming (SB&G)
 ### October 2018 to Present
-In my current role I am responsible for leading the data product strategy within SB&G's Data Tribe, which includes the data warehousing squads, the data science squad and a squad responsible for carrying out compliance related projects (currently ensuring we are Sarbanes Oxley compliant).
+In my current role I am responsible for leading the data product strategy within SB&G's Data Tribe, which includes the data warehousing squads, the data science squad and a squad responsible for carrying out compliance related projects (currently working to ensure we are Sarbanes Oxley compliant).
 
 Responsibilities include...
 * Leading a team of product owners to to define our data product strategy and decide how we best meet business requirements
 * Coordinating early engagement and data discovery across SB&G
 * Managing a team of business analysts
 * Prioritising roadmap and BAU work
+* Working with Head of Technology and delivery leads to ensure we deliver on schedule
 * Communication to senior management
 
 ## Head of Data Science - SB&G
