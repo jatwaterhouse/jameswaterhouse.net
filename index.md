@@ -16,6 +16,7 @@ All views are my own.
 # Blog
 ## Arts vital for science to flourish
 _Posted on April 22, 2019_
+
 People often ask what skills and qualities make the perfect data scientist.  The most obvious answers are statistical knowledge, coding ability and data wrangling expertise.  
 
 Less obvious but just as important are domain knowledge, common sense and pragmatism.  Knowing what will work within the context of your business and having the acumen to make it happen count just as much as technical expertise if your aim is to deliver material value from your work.
