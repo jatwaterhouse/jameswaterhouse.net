@@ -25,7 +25,7 @@ Following the event it was great to catch up with [Lawrence Ning](https://www.li
 
 I'm by no means overplaying the significance of our initial meeting; the Society has it's own success story.  It did however make me realise the importance of being nice; of giving people the time of day, of listening and encouraging others whereever possible.  Many of us are too wrapped up in our own lives, our own problems and challenges, our own to-do-lists to ever spare any time for others which is really sad.
 
-Next time someone asks you for a catch up, a quick chat or to go for coffee, try make the time and go along with an open mind.  You never know what exciting ideas they might have!
+Next time someone asks you for a catch up, for a quick chat or to go for coffee, try make the time and go along with an open mind.  You never know what exciting ideas they might have!
 
 ![lawrence](/images/lawrence.jpg)
 
