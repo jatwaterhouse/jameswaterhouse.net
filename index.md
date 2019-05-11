@@ -17,9 +17,9 @@ All views are my own.
 ## Be nice
 _Posted on May 11, 2019_
 
-This week I had the pleasure of attending the inaugural "Data Science Engagement and Employability Conference" hosted by the [Leeds Data Science Society] (https://www.leedsdatascience.com/).  The event included some interesting presentations from current students and researchers at the University of Leeds, along with lightening talks by companies who make use of data science including SB&G.
+This week I had the pleasure of attending the inaugural "Data Science Engagement and Employability Conference" hosted by the [Leeds Data Science Society](https://www.leedsdatascience.com/).  The event included some interesting presentations from current students and researchers at the University of Leeds, along with lightening talks by companies who make use of data science including SB&G.
 
-Following the event it was great to catch up with [Lawrence Ning] (https://www.linkedin.com/in/ningdata/) who is a co-founder of the society.  Lawrence recalled the first time we met, which was nearly 4 years ago now.  At a time when they where struggling for traction to get the society off the ground and finding it difficult to make connections in industry, we invited them in to our office at SB&G for a coffee and a chat.  In all honesty I'd since forgotten this first meeting, however Lawrence recalled it with great fondness, suggested it was one of a number of early engagements that made him believe the Society could be a success.
+Following the event it was great to catch up with [Lawrence Ning](https://www.linkedin.com/in/ningdata/) who is a co-founder of the society.  Lawrence recalled the first time we met, which was nearly 4 years ago now.  At a time when they where struggling for traction to get the society off the ground and finding it difficult to make connections in industry, we invited them in to our office at SB&G for a coffee and a chat.  In all honesty I'd since forgotten this first meeting, however Lawrence recalled it with great fondness, suggested it was one of a number of early engagements that made him believe the Society could be a success.
 
 4 years later and the Society is going from strength to strength, with an ever growing presence in Leeds and beyond.
 
