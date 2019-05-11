@@ -14,6 +14,20 @@ This site contains basic info about me, some of my random musings by way of a bl
 All views are my own.
 
 # Blog
+## Be nice
+_Posted on May 11, 2019_
+This week I had the pleasure of attending the inaugural "Data Science Engagement and Employability Conference" hosted by the [Leeds Data Science Society] (https://www.leedsdatascience.com/).  The event included some interesting presentations from current students and researchers at the University of Leeds, along with lightening talks by companies who make use of data science including SB&G.
+
+Following the event it was great to catch up with [Lawrence Ning] (https://www.linkedin.com/in/ningdata/) who is a co-founder of the society.  Lawrence recalled the first time we met, which was nearly 4 years ago now.  At a time when they where struggling for traction to get the society off the ground and finding it difficult to make connections in industry, we invited them in to our office at SB&G for a coffee and a chat.  In all honesty I'd since forgotten this first meeting, however Lawrence recalled it with great fondness, suggested it was one of a number of early engagements that made him believe the Society could be a success.
+
+4 years later and the Society is going from strength to strength, with an ever growing presence in Leeds and beyond.
+
+I'm by no means overplaying the significance of our initial meeting; the Society has it's own success story.  It did however make me realise the importance of being nice; of giving people the time of day, of listening and encouraging others whereever possible.  Many of us are too wrapped up in our own lives, our own problems and challenges, our own to-do-lists to ever spare any time for others which is really sad.
+
+Next time someone asks you for a catch up, a quick chat or to go for coffee, try make the time and go along with an open mind.  You never know what exciting ideas they might have!
+
+![lawrence](/images/lawrence.jpg)
+
 ## Arts vital for science to flourish
 _Posted on April 22, 2019_
 
