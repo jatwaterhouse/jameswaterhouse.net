@@ -30,7 +30,7 @@ I strongly believe that data holds the key to business success and I am obsessed
 * Agile delivery
 
 # Experience
-## Head of Data and Business Intelligence
+## Head of Data and Business Intelligence - Sky Betting & Gaming (SB&G)
 ### August 2019 to Present
 In addition to the responsibility of my previous role, I have since taken on responsibility for leading the Business Intelligence function which includes all 3 of SB&G's analytics teams as well as the UK arm of TSG's research team.
 
@@ -42,7 +42,7 @@ In addition to data product responsibilities listed below, responsibilities incl
 * Employing best practice from tech delivery in order to build highly efficient analytic teams
 * Build a regular comms programme for BI to ensure key stakeholders are kept informed of new insight and learnings
 
-## Head of Product (Data) - Sky Betting & Gaming (SB&G)
+## Head of Product (Data) - SB&G
 ### October 2018 to August 2019
 Responsible for leading the data product strategy within SB&G's Data Tribe, which includes the data warehousing squads, the data science squad and a squad responsible for carrying out compliance related projects (GDPR/Sarbanes Oxley).
 
