@@ -5,7 +5,7 @@
 
 
 # About
-I'm James Waterhouse, currently Head of Product in the Data Tribe at Sky Betting & Gaming based in Leeds, UK.
+I'm James Waterhouse, currently Head of Data & Business Intelligence at Sky Betting & Gaming based in Leeds, UK.
 
 I'm passionate about anything data, data science or analytics related.
 
