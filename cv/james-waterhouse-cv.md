@@ -3,11 +3,13 @@ title: James Waterhouse - Curriculum Vitae
 ---
 
 # Profile
-I am a passionate and motivated data strategist with experience spanning multiple analytical and management roles in both business insight and data science.
+I am a passionate and motivated data strategist and leader, with experience spanning multiple analytical and management roles in both business insight and data science.
 
 I combine technical ability with creativity and commercial awareness to create new opportunities from data.  
 
-With over 8 years experience working within a rapidly growing tech business, I am comfortable communicating at a senior management level, whilst can also roll my sleaves up and muck in, understanding the detail and effort it will take to get things done 'on the ground'.
+With over 8 years experience working within a rapidly growing tech business, I am comfortable operating at all levels from senior management down to engineers, analysts and execs working on day to day delivery.
+
+I work on a daily basis with members of our senior management team, but am equally as happy rolling my sleaves up in order to get things done 'on the ground'.
 
 My experience working both within and in support of commercial teams means I am able to balance pragmatism with foresight to deliver in both the short and long terms.
 
@@ -16,6 +18,7 @@ I strongly believe that data holds the key to business success and I am obsessed
 # Key Skills
 * Strategic thinking
 * Product ownership and prioritisation
+* Leadership
 * Team management
 * Analytical approaches and planning
 * SQL
@@ -27,11 +30,23 @@ I strongly believe that data holds the key to business success and I am obsessed
 * Agile delivery
 
 # Experience
-## Head of Product (Data) - Sky Betting & Gaming (SB&G)
-### October 2018 to Present
-In my current role I am responsible for leading the data product strategy within SB&G's Data Tribe, which includes the data warehousing squads, the data science squad and a squad responsible for carrying out compliance related projects (currently working to ensure we are Sarbanes Oxley compliant).
+## Head of Data and Business Intelligence
+### August 2019 to Present
+In addition to the responsibility of my previous role, I have since taken on responsibility for leading the Business Intelligence function which includes all 3 of SB&G's analytics teams as well as the UK arm of TSG's research team.
 
-Responsibilities include...
+It's my responsibilty to lead a highly efficient, effective and well aligned business intelligence, research and data science function that help SB&G make the right decisions.
+
+In addition to data product responsibilities listed below, responsibilities include...
+* Ensuring analytical best practises and techniques are shared between teams
+* Overseeing the implementation of a development and training programme across the teams
+* Employing best practice from tech delivery in order to build highly efficient analytic teams
+* Build a regular comms programme for BI to ensure key stakeholders are kept informed of new insight and learnings
+
+## Head of Product (Data) - Sky Betting & Gaming (SB&G)
+### October 2018 to August 2019
+Responsible for leading the data product strategy within SB&G's Data Tribe, which includes the data warehousing squads, the data science squad and a squad responsible for carrying out compliance related projects (GDPR/Sarbanes Oxley).
+
+Responsibilities included...
 * Leading a team of product owners to to define our data product strategy and decide how we best meet business requirements
 * Coordinating early engagement and data discovery across SB&G
 * Managing a team of business analysts
