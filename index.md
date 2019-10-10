@@ -14,6 +14,19 @@ This site contains basic info about me, some of my random musings by way of a bl
 All views are my own.
 
 # Blog
+## Playing chess
+_Posted on August 02, 2019_
+
+I was reminded last week during a 1-2-1 with one of my staff members that the transition from an operational role into a management/leadership position can be tricky for a number of reasons.  One of the hardest things to get to grips with is the changing face of what success looks like and the sources from which we as individuals can get a sense of accomplishment.
+
+Those with a traditional BI or data science background are used to picking up a problem, owning it through the analytical process and producing some tangible output which is then acted upon.  With the transition to a role of leadership, the successes aren't at first so obvious.  
+
+The sense of accomplishment that used to stem from _producing and distributing a new dashboard_ or _releasing a new predictive model_ now has to come from _the moment when the analtyics team and the data engineering team collectively realise that prioritising vis tool improvement will make both all their lives easier_ or _the moment a prevously distant team elsewhere comes to your team for help with a complex problem_.
+
+As I reminded my colleague last week, _"We're playing chess now, not carving the pieces"_.
+
+![chess](/images/chess.jpg)
+
 ## Be nice
 _Posted on May 11, 2019_
 
