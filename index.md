@@ -21,9 +21,9 @@ I was reminded last week during a 1-2-1 with one of my staff members that the tr
 
 Those with a traditional BI or data science background are used to picking up a problem, owning it through the analytical process and producing some tangible output which is then acted upon.  With the transition to a role of leadership, the successes aren't at first so obvious.  
 
-The sense of accomplishment that used to stem from _producing and distributing a new dashboard_ or _releasing a new predictive model_ now has to come from _the moment when the analtyics team and the data engineering team collectively realise that prioritising vis tool improvement will make both all their lives easier_ or _the moment a prevously distant team elsewhere comes to your team for help with a complex problem_.
+The sense of accomplishment that used to stem from 'producing and distributing a new dashboard' or 'releasing a new predictive model' now has to come from 'the moment when the analtyics team and the data engineering team collectively realise that prioritising making improvements to a visualisation tool will make both all their lives easier' or 'the moment a prevously distant team elsewhere comes to your team for help with a complex problem'.  
 
-As I reminded my colleague last week, _"We're playing chess now, not carving the pieces"_.
+A sense of achievement and accomplishment needs to come from the small improvement and steps forward that are taken every day.  It's a long game but the reward at the end is much bogger.  As I reminded my colleague last week, _"We're playing chess now, not carving the pieces"_.
 
 ![chess](/images/chess.jpg)
 
