@@ -3,7 +3,7 @@ title: James Waterhouse - Curriculum Vitae
 ---
 
 # Profile
-I am a passionate and motivated data strategist and leader, with experience spanning multiple analytical and management roles in both business insight and data science.
+I am a passionate and motivated data strategist and leader, with experience spanning multiple analytical and management roles in both business intelligence and data science.
 
 I combine technical ability with creativity and commercial awareness to create new opportunities from data.  
 
