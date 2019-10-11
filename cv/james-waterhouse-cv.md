@@ -7,9 +7,9 @@ I am a passionate and motivated data strategist and leader, with experience span
 
 I combine technical ability with creativity and commercial awareness to create new opportunities from data.  
 
-With over 8 years experience working within a rapidly growing tech business, I am comfortable operating at all levels from senior management down to engineers, analysts and execs working on day to day delivery.
+With over 8 years' experience working within a rapidly growing tech business, I am comfortable operating at all levels from senior management down to engineers, analysts and execs working on day to day delivery.
 
-I work on a daily basis with members of our senior management team, but am equally as happy rolling my sleaves up in order to get things done 'on the ground'.
+I work on a daily basis with members of our senior management team, but am equally as happy rolling my sleeves up in order to get things done 'on the ground'.
 
 My experience working both within and in support of commercial teams means I am able to balance pragmatism with foresight to deliver in both the short and long terms.
 
@@ -34,20 +34,20 @@ I strongly believe that data holds the key to business success and I am obsessed
 ### August 2019 to Present
 In addition to the responsibility of my previous role, I have since taken on responsibility for leading the Business Intelligence function which includes all 3 of SB&G's analytics teams as well as the UK arm of TSG's research team.
 
-It's my responsibilty to lead a highly efficient, effective and well aligned business intelligence, research and data science function that help SB&G make the right decisions.
+It's my responsibility to lead a highly efficient, effective and well aligned business intelligence, research and data science function that help SB&G make the right decisions.
 
 In addition to data product responsibilities listed below, responsibilities include...
 * Ensuring analytical best practises and techniques are shared between teams
 * Overseeing the implementation of a development and training programme across the teams
 * Employing best practice from tech delivery in order to build highly efficient analytic teams
-* Build a regular comms programme for BI to ensure key stakeholders are kept informed of new insight and learnings
+* Build a regular comms. programme for BI to ensure key stakeholders are kept informed of new insight and learnings
 
 ## Head of Product (Data) - SB&G
 ### October 2018 to August 2019
 Responsible for leading the data product strategy within SB&G's Data Tribe, which includes the data warehousing squads, the data science squad and a squad responsible for carrying out compliance related projects (GDPR/Sarbanes Oxley).
 
 Responsibilities included...
-* Leading a team of product owners to to define our data product strategy and decide how we best meet business requirements
+* Leading a team of product owners to define our data product strategy and decide how we best meet business requirements
 * Coordinating early engagement and data discovery across SB&G
 * Managing a team of business analysts
 * Prioritising roadmap and BAU work
@@ -58,7 +58,7 @@ Responsibilities included...
 ### August 2015 to October 2018
 Noticing the potential to apply machine learning and data science to SB&G's vast amounts of customer and transactional data, I set up from scratch and led the Data Science team, one of the real success stories in SBG's ascent to become the UKs leading online bookmaker.
 
-By championing the formation of a multi-diciplined team of data scientists, engineers and testers, and establishing a culture of empowerment, teamwork and autonomy of decision making, I've overseen the delivery of 80+ predictive models running in automation and at scale on Hadoop.  These models now deliver in excess of £4M incremental revenue to the business p/a.
+By championing the formation of a multi-disciplined team of data scientists, engineers and testers, and establishing a culture of empowerment, teamwork and autonomy of decision making, I've overseen the delivery of 80+ predictive models running in automation and at scale on Hadoop.  These models now deliver in excess of £4M incremental revenue to the business p/a.
 
 Whilst Head of Data Science I...
 * Introduced the business to the potential of predictive modelling, machine learning and player segmentation
@@ -67,17 +67,17 @@ Whilst Head of Data Science I...
 
 ## Interim Safer Gambling Programme Manager - SB&G
 ### July 2018 to October 2018
-In addition to my responsibilities as Head of Data Science, I became heavily involved in forging our early safer gambling strategy working closly with the then Managing Director of Risk and Safer Gambling.
+In addition to my responsibilities as Head of Data Science, I became heavily involved in forging our early safer gambling strategy working closely with the then Managing Director of Risk and Safer Gambling.
 
 During this time I...
-* Met reguarly with industry groups such as [Senet Group](https://senetgroup.org.uk/) and the RGA
-* Liased with the Gambling Commission and other regulatory bodies
+* Met regularly with industry groups such as [Senet Group](https://senetgroup.org.uk/) and the RGA
+* Liaised with the Gambling Commission and other regulatory bodies
 * Outlined a identification and interaction strategy with machine learning and behavioural analytics at its core
 * Oversaw a interaction trial in collaboration with [the Behavioural Insights Team](https://www.bi.team/)
 
 ## Head of Strategy & Insight - SB&G
 ### Feb 2015 to August 2015
-Ran a  large  team  of analysts  and  researchers responsible for  providing insight for the entire business including the marketing, commercial and product teams.  
+Ran a  large  team  of analysts and researchers responsible for providing insight for the entire business including the marketing, commercial and product teams.  
 
 Dealing with members of our senior management on a daily basis, I regularly presented findings to our leadership team.  
 
