@@ -14,6 +14,54 @@ This site contains basic info about me, some of my random musings by way of a bl
 All views are my own.
 
 # Blog
+## Unicorns and pots of gold at the end of the rainbow
+_Posted on July 27, 2020_
+
+_Written for the [Data Leaders of the North Podcast](https://open.spotify.com/show/1d9f8CvYEwbJMbzfgYPDKf)_
+
+It's a well discussed topic but I thought throw my hat into the ring and write down my thoughts on what it takes to set up and run an effective data science team.
+
+By no means do I have all the answers however having experienced the highs and lows of setting up and leading the data science team at Sky Betting and Gaming, I feel I've leant some valuable lessons along the way that I hope you'll find useful.
+
+### The right skills mix
+A successful data science team must contain a mixture of skills; science, engineering/test and domain knowledge.
+
+Obviously the science is the clever part, the part that will really enable you to differentiate.  Having good data scientists with a broad knowledge of techniques and a focus on best practise is essential.  However many companies will bring in PhD level data scientists and assume that just because they're really smart, they'll have all the answers and be able to have an instant impact.  As with most things data related however, the real challenges are in the following areas:
+
+* **scaling** - taking a model that may work locally on a small dataset and expanding that out to the millions of customers you have on your customer base)
+* **automation** - enabling the brilliant model the scientists have slaved away on to run in automation
+* **plumbing** - ensuring the output of your models is made available to the stakeholders and teams that can really unlock the value
+* **monitoring** - being able to track model performance and flag when a re-train or re-build is required
+
+In order to deliver effective data science, you'll need to crack the above, which inevitably means a mix of people including data scientists, product owners, ML engineers and testers.  There's no such thing as the data science unicorn that can do it all, so building a cross-functional team is key.
+
+### Autonomy and empowerment
+When we first created the data science team at SBG we had access to engineering resource, however this sat separately and needed to be requested.
+
+As a result we found in the early days that we often ended up with a clumsy hand off to our data engineering team, many of whom were new to working on machine learning projects.
+
+Our real breakthrough was when we managed to acquire dedicated engineering and test resource in the team.  Not only did this mean there was less of a hand off to engineering, it also led to osmosis of skills, with the data scientists learning engineering, the testers learning engineering and the engineers learning some data science.
+
+Having the ability and autonomy to deliver a proper automated machine learning project end-to-end meant we could be masters of our own destiny and were only dependent on somebody making use of the models.
+
+### Early Engagement, education and collaboration
+In addition to the need for engineering expertise, having domain knowledge in the area you're trying to improve is key.  Building something smart is not the same as building something useful and relevant.  Hence really understanding the problem space is essential, this only comes from close collaboration with other parts of the business.
+
+I've observed that stakeholders can sometimes feel intimidated by data science, not quite grasping the capabilities.  This often leads to them pushing back or not being fully bought in.  Data science is only as good as it's use.  Without getting early buy in from stakeholders, and prepping them to make use of the data science output once ready, our efforts are pointless.
+
+Spending time running through what's possible with the science, roughly how it works and how stakeholders can make use of it is key.  This takes time patient and sometimes repetition.
+
+In addition we put a lot of focus on keeping up to date with business update and 5-15s, getting in touch with as many people as possible suggesting ways data science could help them and their area of the business.
+
+### Scaling horizontally
+Once we established an effective DS unit, we switched towards a focus on delivering horizontally.  By this, I mean getting data science and automated modelling into as many business processes and usecases as possible.  The idea here was to ensure we could add value to the business end-to-end in multiple places, which in some instances came at the cost of building massively complex and bespoke models, in favour of speed and integration.
+
+An alternative approach might have been to pick one or two models and really deep dive into making them as perfect as they could be, however I'm glad we worked it the other way and focused on producing multiple products to meet multiple usecases.
+
+As a second phase to our strategy, we looked to evolve our modelling techniques and improve the accuracy and complexity where appropriate, but safe in the knowledge that our work was already adding value around SBG.
+
+![DS_unicorn](/images/DS_unicorn.jpg)
+
 ## Playing chess
 _Posted on August 02, 2019_
 
