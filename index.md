@@ -19,7 +19,7 @@ _Posted on July 27, 2020_
 
 _Written for the [Data Leaders of the North Podcast](https://open.spotify.com/show/1d9f8CvYEwbJMbzfgYPDKf)_
 
-It's a well discussed topic but I thought throw my hat into the ring and write down my thoughts on what it takes to set up and run an effective data science team.
+It's a well discussed topic but I thought I'd throw my hat into the ring and write down my thoughts on what it takes to set up and run an effective data science team.
 
 By no means do I have all the answers however having experienced the highs and lows of setting up and leading the data science team at Sky Betting and Gaming, I feel I've leant some valuable lessons along the way that I hope you'll find useful.
 
