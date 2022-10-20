@@ -1,9 +1,14 @@
 ---
 title: James Waterhouse - Curriculum Vitae
 ---
+# Data Director - Data - Data Science - Strategy - Business Intelligence
+## Defining strategy to enable transformation and deliver maximum value through data and analytics 
+
 
 # Profile
-I am a passionate and motivated data strategist and leader, with experience spanning multiple analytical and management roles in both business intelligence and data science.
+Innovative and passionate data director with 11+ years experience spanning multiple analytical and management roles across business intelligence, anlytics, data product delivery and data science.
+
+Demonstrates proven track record in best in class data products 
 
 I combine technical ability with creativity and commercial awareness to create new opportunities from data.  
 
@@ -14,6 +19,8 @@ I work on a daily basis with members of our senior management team, but am equal
 My experience working both within and in support of commercial teams means I am able to balance pragmatism with foresight to deliver in both the short and long terms.
 
 I strongly believe that data holds the key to business success and I am obsessed with unlocking its value.
+
+Provides strategic vision and thought leadership whilst leading execution and transformation to fulfil long term plans and concepts.
 
 # Key Skills
 * Strategic thinking
@@ -30,8 +37,15 @@ I strongly believe that data holds the key to business success and I am obsessed
 * Agile delivery
 
 # Experience
+## Director of Business Intelligence & Data Science UKI - Flutter UKI
+### September 2022 to Present
+
+
+## Director of Business Intelligence & Data Strategy - Sky Betting & Gaming (SB&G)
+### July 2021 to September 2022
+
 ## Head of Data and Business Intelligence - Sky Betting & Gaming (SB&G)
-### August 2019 to Present
+### August 2019 to July 2021
 In addition to the responsibility of my previous role, I have since taken on responsibility for leading the Business Intelligence function which includes all 3 of SB&G's analytics teams as well as the UK arm of TSG's research team.
 
 It's my responsibility to lead a highly efficient, effective and well aligned business intelligence, research and data science function that help SB&G make the right decisions.
