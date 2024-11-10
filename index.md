@@ -5,9 +5,9 @@
 
 
 # About
-I'm James Waterhouse, currently Head of Data & Business Intelligence at Sky Betting & Gaming based in Leeds, UK.
+I'm James Waterhouse, currently Director of Business Intelligence for UKI at Flutter Entertainment based in Leeds, UK.
 
-I'm passionate about anything data, data science or analytics related.
+I'm passionate about anything analytics, data or data sciencerelated.
 
 This site contains basic info about me, some of my random musings by way of a blog and my CV.
 
